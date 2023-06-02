@@ -1,7 +1,3 @@
-# quickmeet
-A video chat/meeting webapp using WebRTC and WebSockets (socket.io). Basically a Google Meet clone + a collaborative whiteboard.
-
-
 ## Current Features?
 
 1. Video Calls
@@ -14,6 +10,4 @@ A video chat/meeting webapp using WebRTC and WebSockets (socket.io). Basically a
 1. List of attendees
 2. Responsive front-end for Rooms
 
-## Contributions?
 
-Feel free to make a PR.
